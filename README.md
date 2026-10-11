@@ -18,5 +18,3 @@ Course: Operating System
 ```bash
 make qemu
 ```
-
-R
