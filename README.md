@@ -15,6 +15,6 @@ Course: Operating System
 
 ## Build and Run
 
-```bash
+'''bash
 make qemu
-```
+'''
